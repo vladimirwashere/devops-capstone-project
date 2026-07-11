@@ -1,3 +1,12 @@
+# devops-capstone-project
+
+Customer Accounts microservice for an e-commerce platform. This RESTful
+Flask-based service manages customer account data (names and addresses)
+and supports create, read, update, delete, and list operations. Built as
+part of the IBM DevOps and Software Engineering Capstone, using Agile
+planning, TDD, CI/CD with GitHub Actions and Tekton, Docker, and
+deployment to Kubernetes/OpenShift.
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
