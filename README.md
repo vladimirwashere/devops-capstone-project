@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/vladimirwashere/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 Customer Accounts microservice for an e-commerce platform. This RESTful
 Flask-based service manages customer account data (names and addresses)
 and supports create, read, update, delete, and list operations. Built as
